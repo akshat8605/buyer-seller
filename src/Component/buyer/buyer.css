@@ -1,0 +1,6 @@
+@media (min-width: 960px){
+.buyer {
+    width: calc(100% - 240px);
+    margin-left: 240px;
+}
+}
