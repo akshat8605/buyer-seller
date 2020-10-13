@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(bodyParser.json());
 app.use(cors())
-const url = `mongodb+srv://${encodeURIComponent('akshat8605')}:${encodeURIComponent('YTu84gCzZ6tGv45t')}@cluster0.5je4b.mongodb.net/platform?retryWrites=true&w=majority`;
+const url = `mongodb+srv://${encodeURIComponent('****')}:${encodeURIComponent('*****')}@cluster0.5je4b.mongodb.net/platform?retryWrites=true&w=majority`;
  
 // Database Name
 const dbName = 'platform';
